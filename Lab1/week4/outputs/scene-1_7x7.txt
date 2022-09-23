@@ -1,0 +1,10 @@
+File name: scene-1_7x7_interpolated.tif
+
+
+Minimum: -58.702081425781216
+Maximum: 68.49779025390626
+Mean: -0.22192767887976397
+Standard deviation: 8.346497671881098
+Median: -0.605841855468725
+MAD: 3.6105826953124733
+Mode: -1

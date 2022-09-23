@@ -1,0 +1,10 @@
+File name: scene-1_15x15_interpolated.tif
+
+
+Minimum: -63.32818884765629
+Maximum: 77.22406568359372
+Mean: -0.5498282432474122
+Standard deviation: 8.196530645928103
+Median: -1.0671129492187674
+MAD: 3.1327923632812826
+Mode: -1

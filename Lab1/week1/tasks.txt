@@ -1,0 +1,13 @@
+Tasks:
+
+1. In util.py:
+    - Fill in code for local_mean()
+    - Fill in code for local_std()
+    - Fill in code for wallis()
+
+2. Find appropriate filtering parameters using a cropped version of the image for speed. What effect does each parameter have?
+
+3. Compare results of Wallis filtering on image before and after denoising
+
+
+
