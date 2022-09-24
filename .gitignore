@@ -1,6 +1,11 @@
 ## course specific files
 data/
 raw_data/
+*.tif
+*.npz
+*.xyz
+*.qgz
+*.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
